@@ -1,1 +1,3 @@
-# This code describes my IBM Watson Studio Jupyter Notebook assignment
+# IBMcode
+## Assignment
+IBM Watson Studio Jupyter Notebook assignment
